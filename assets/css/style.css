@@ -1,0 +1,20 @@
+body {
+  background-color: grey;
+}
+.logo > img {
+  max-width: 150px;
+  max-height: 150px;
+}
+
+.navbar .navbar-brand {
+  margin: 1rem 3rem;
+}
+
+.navbar-default {
+  background-color: rgba(255, 255, 255, 255);
+}
+
+.navbar-nav {
+  margin: 5rem 3rem;
+  float: right;
+}
